@@ -1,1 +1,1 @@
-{"base": "c850d30", "parent": "debian/kinetic/ros_pytest", "previous": "e532a72", "trim": "", "trimbase": ""}
+{"trim": "", "base": "464bb20", "trimbase": "", "parent": "debian/kinetic/ros_pytest", "previous": "531e4b7"}
