@@ -1,3 +1,26 @@
+## ros_pytest (kinetic) - 0.1.2-3
+
+The packages in the `ros_pytest` repository were released into the `kinetic` distro by running `/home/alexander/.local/bin/bloom-release ros_pytest --rosdistro kinetic` on `Thu, 22 Nov 2018 13:18:10 -0000`
+
+The `ros_pytest` package was released.
+
+Version of package(s) in repository `ros_pytest`:
+
+- upstream repository: https://github.com/machinekoder/ros_pytest.git
+- release repository: https://github.com/machinekoder/ros_pytest-release.git
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.2-2`
+- new version: `0.1.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## ros_pytest (melodic) - 0.1.2-2
 
 The packages in the `ros_pytest` repository were released into the `melodic` distro by running `/home/alexander/.local/bin/bloom-release ros_pytest --rosdistro melodic` on `Thu, 22 Nov 2018 13:15:16 -0000`
