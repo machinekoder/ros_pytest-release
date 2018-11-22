@@ -1,0 +1,12 @@
+Source: ros-kinetic-ros-pytest
+Section: misc
+Priority: extra
+Maintainer: Alexander Rössler <alex@machinekoder.com>
+Build-Depends: debhelper (>= 9.0.0), python-pytest, ros-kinetic-catkin, ros-kinetic-rospy, ros-kinetic-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ros-pytest
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-pytest, ros-kinetic-rospy
+Description: The ros_pytest package
