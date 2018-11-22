@@ -1,1 +1,1 @@
-{"base": "cedc106", "parent": "debian/melodic/ros_pytest", "previous": "2281482", "trim": "", "trimbase": ""}
+{"trim": "", "base": "88de1e6", "trimbase": "", "parent": "debian/melodic/ros_pytest", "previous": "95a990d"}
