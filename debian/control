@@ -1,0 +1,12 @@
+Source: ros-melodic-ros-pytest
+Section: misc
+Priority: extra
+Maintainer: Alexander Rössler <alex@machinekoder.com>
+Build-Depends: debhelper (>= 9.0.0), python-pytest, ros-melodic-catkin, ros-melodic-rospy, ros-melodic-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-ros-pytest
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-pytest, ros-melodic-rospy
+Description: The ros_pytest package
