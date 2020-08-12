@@ -1,3 +1,26 @@
+## ros_pytest (noetic) - 0.2.0-0
+
+The packages in the `ros_pytest` repository were released into the `noetic` distro by running `/home/alexander/.local/bin/bloom-release ros_pytest --rosdistro noetic` on `Wed, 12 Aug 2020 12:22:19 -0000`
+
+The `ros_pytest` package was released.
+
+Version of package(s) in repository `ros_pytest`:
+
+- upstream repository: https://github.com/machinekoder/ros_pytest.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## ros_pytest (melodic) - 0.2.0-0
 
 The packages in the `ros_pytest` repository were released into the `melodic` distro by running `/home/alexander/.local/bin/bloom-release ros_pytest --rosdistro melodic` on `Wed, 12 Aug 2020 12:19:16 -0000`
