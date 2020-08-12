@@ -1,0 +1,32 @@
+ros-melodic-ros-pytest (0.2.0-0stretch) stretch; urgency=high
+
+  * Merge pull request #7 <https://github.com/machinekoder/ros_pytest/issues/7> from machinekoder/fix-folders
+  * Bugfix for pytest folder tests
+  * Merge pull request #5 <https://github.com/machinekoder/ros_pytest/issues/5> from sfalexrog/python3_compat
+  * Merge pull request #6 <https://github.com/machinekoder/ros_pytest/issues/6> from PilzDE/feature/add_coverage
+  * Remove comment
+  * Added reasoning and integrate if CATKIN_TEST_COVERAGE is set
+  * Create subfolder for .coverage for each test
+  * Add  flag to pytest execution
+  * Add coverage for pytest
+  * package.xml: Use conditional dependencies
+  * CMakeLists: Use catkin_install_python for script installation
+  * Contributors: Alexander Gutenkunst, Alexander Rössler, Alexey Rogachevskiy, hslusarek
+
+ -- Alexander Rössler <alex@machinekoder.com>  Tue, 11 Aug 2020 22:00:00 -0000
+
+ros-melodic-ros-pytest (0.1.2-0stretch) stretch; urgency=high
+
+  * Added add_pytests cmake macro
+  * enable passing of additional commands
+  * Contributors: Alexander Rössler, Markus Grimm
+
+ -- Alexander Rössler <alex@machinekoder.com>  Wed, 14 Nov 2018 23:00:00 -0000
+
+ros-melodic-ros-pytest (0.1.1-0stretch) stretch; urgency=high
+
+  * *Release for melodic
+
+ -- Alexander Rössler <alex@machinekoder.com>  Sat, 06 Oct 2018 22:00:00 -0000
+
+
